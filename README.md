@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Web3 Skills Passport
 
 A complete Web3 Skills Passport system that issues, stores, and verifies student credentials in a tamper-proof, privacy-preserving, and issuer-verified way using blockchain technology.
