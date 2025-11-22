@@ -1,0 +1,21 @@
+{
+  "name": "web3-skills-passport",
+  "version": "1.0.0",
+  "description": "Complete Web3 Skills Passport system with soulbound credentials",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "deploy": "hardhat run scripts/deploy.js --network mumbai",
+    "deploy:local": "hardhat run scripts/deploy.js --network localhost",
+    "backend": "cd backend && npm run dev",
+    "frontend": "cd frontend && npm run dev",
+    "install:all": "npm install && cd backend && npm install && cd ../frontend && npm install"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "hardhat": "^2.17.2"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
