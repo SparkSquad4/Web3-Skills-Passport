@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Web3 Skills Passport
 
 A complete Web3 Skills Passport system that issues, stores, and verifies student credentials in a tamper-proof, privacy-preserving, and issuer-verified way using blockchain technology.
@@ -289,3 +290,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [MetaMask](https://metamask.io/)
 - [Hardhat Documentation](https://hardhat.org/docs)
 - [Next.js Documentation](https://nextjs.org/docs)
+=======
+# EDUVAULT
+A decentralized credential system with soulbound NFTs on Polygon.
+>>>>>>> 4982841742ef4f21f38a8175ef3fd613dade5036
